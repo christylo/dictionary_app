@@ -1,2 +1,2 @@
 # dictionary_app
-Users can input a word to return a dictionary definition
+Python application where users can input a word on the command line to return a dictionary definition. This app allows for the user to have a variation of errors in typing. For example, the user could type "rainn" rather than "rain" and it will still direct the user to the intended word's definition. It will prompt the user by asking whether they meant "rain" and wait for a yes/no response to continue searching. The app also works whether the user types in capitals or lower case and can identify acronyms and names. If the word is not found in the dictionary, it will return a message for the user to try again with a different search.
